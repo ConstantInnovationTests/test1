@@ -15,10 +15,10 @@ commit branch test23
 update
 update2
 update3
-[Dennis] Update 1
-[Dennis] Update 2
-[Dennis] Update 3
-[Dennis] Update 4
-[Dennis] Update 5
-[Dennis] Update 6
-[Dennis] Update 7
+Update 1
+Update 2
+Update 3
+Update 4
+Update 5
+Update 6
+Update 7
